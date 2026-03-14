@@ -232,3 +232,12 @@ public Node ReverseLinkedList(Node head) {
 ```
 Time complexity: `O(n)`
 Space complexity: `O(1)`
+
+## Common Problem Patterns
+Linked lists often appear in problems involving:
+* **reversing a list**
+* **finding the middle node**
+* **cycle detection**
+* **merging two lists**
+* **removing the N-th node from the end**
+* **reordering nodes**
